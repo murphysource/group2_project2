@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+bookImg {
+    height: 100px;
+}
 
 .body-content {
     padding-left: 5px;
